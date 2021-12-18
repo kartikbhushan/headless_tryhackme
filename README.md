@@ -80,7 +80,7 @@ Nmap done: 1 IP address (1 host up) scanned in 16.83 seconds
 Finding - Anon Login is allowed 
 ```
 
-## Enumneration - Enumerating the Apache webpage on PORT 80
+## Web Enumeration - Enumerating the Apache webpage on PORT 80
 ```
 Command - 
 sudo gobuster dir -u http://10.10.110.189 -w /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
@@ -112,7 +112,7 @@ Going through all the directories - Findings
 11:11pm - goodiya.txt.gpg
 		- happiness.jpeg
 
-Hidden .readme.md file "ls -la" reviled it out 
+Hidden .readme.md file "ls -la" revealed it out 
 n33l3sh - .readme.md
 
 ```
@@ -139,8 +139,8 @@ goodiya: wait.. i think I knew this song!, what you want to describe...
 Tried online steagnography tool - https://futureboy.us/stegano/decinput.html
 
 Passphrase tried - glassanimals
-				 - heatwaves
-				 - h3atwav3s
+		 - heatwaves
+		 - h3atwav3s
 
 Passphrase Worked - h3atwav3s
 Extrated Text - MEZTG6JTMZ2TU5TZMJUXE3DCNA======
