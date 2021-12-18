@@ -225,7 +225,7 @@ sudo: unable to resolve host Centos
 root
 n33l3sh@Centos:~$ sudo cat .flag.txt
 sudo: unable to resolve host Centos
-RWB{s0_much_d3p3nds_up0n_th3-Red-WheelBarrow}
+flag{There is the flag here}
 n33l3sh@Centos:~$ LETS GO
 
 ```
