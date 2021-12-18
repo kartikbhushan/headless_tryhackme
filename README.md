@@ -157,7 +157,7 @@ Decoded String - a33y3fu:vybirlbh
 
 The Base32 string looked like a rot algorithm(Rotation cipher) because I had come across a directory called : "n33l3sh" - "a33y3fu"
 
-Rot13 Decoding - n33l3sh:iloveyou .
+Rot13 Decoding - n33l3sh:{THEPASSWORD} .
 
 This looked like a user login with password :) les gooo.
 
