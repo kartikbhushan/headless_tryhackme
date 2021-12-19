@@ -85,9 +85,10 @@ sudo gobuster dir -u http://10.10.110.189 -w /usr/share/wordlists/dirbuster/dire
 
 ```
 You can find different word list preinstalled (Kali Linux in my case) under - /usr/share/wordlist/dirbuster/
+
 Did not find anyting intresting in this case.
 
-#### The Box time ended so I had to restart Hence the New IP address - 10.10.231.191
+### The Box time ended so I had to restart Hence the New IP address - 10.10.231.191
 
 ## Anonymous login into the FTP server 
 Since we can see from the Nmap scan that the Ftp server allows anonymous login we can try to scavenge for some files.
