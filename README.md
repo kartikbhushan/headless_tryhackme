@@ -141,11 +141,11 @@ goodiya: wait.. i think I knew this song!, what you want to describe...
 Tried online steagnography tool - https://futureboy.us/stegano/decinput.html
 
 Passphrase tried - glassanimals
-		         - heatwaves
-		         - h3atwav3s
+		 - heatwaves
+		 - h3atwav3s
 
 Passphrase Worked - h3atwav3s
-Extrated Text - MEZTG6JTMZ2TU5TZMJUXE3DCNA======
+Extrated Text - {SECRET STRING}
 ```
 
 Intially looked Base64 so check it on cyberchef - Error - Data is not a valid byteArray: [48,70,83,27,162,83,49...
@@ -154,7 +154,7 @@ Finally landed upon a function called "Magic" - "The Magic operation attempts to
 
 ```
 Found the Base32 decoding - From_Base32('A-Z2-7=',false)
-Decoded String - a33y3fu:vybirlbh
+Decoded String - a33y3fu:{DECODED PASSWORD}
 ```
 
 ## Further Decoding the Base32 String - 
@@ -226,7 +226,7 @@ sudo: unable to resolve host Centos
 root
 n33l3sh@Centos:~$ sudo cat .flag.txt
 sudo: unable to resolve host Centos
-flag{There is the flag here}
+FLAG{THERE IS A FLAG HERE}
 n33l3sh@Centos:~$ LETS GO
 ```
 
