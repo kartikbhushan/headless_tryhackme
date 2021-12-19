@@ -84,7 +84,7 @@ Command -
 sudo gobuster dir -u http://10.10.110.189 -w /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
 
 ```
-You can find different world list preinstalled (Kali Linux in my case) under - /usr/share/wordlist/dirbuster/
+You can find different word list preinstalled (Kali Linux in my case) under - /usr/share/wordlist/dirbuster/
 Did not find anyting intresting in this case.
 
 #### The Box time ended so I had to restart Hence the New IP address - 10.10.231.191
